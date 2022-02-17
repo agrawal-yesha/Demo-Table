@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Yesha Agrawal",
+    "dateOfBirth": "Nov 12, 1996",
+    "address": "abc"
+  },
+  {
+    "id": 2,
+    "name": "Prince Gupta",
+    "dateOfBirth": "Nov 13, 1996",
+    "address": "def"
+  },
+  {
+    "id": 3,
+    "name": "Prince Agrawal",
+    "dateOfBirth": "Nov 14, 1996",
+    "address": "ghj"
+  },
+  {
+    "id": 4,
+    "name": "Yesha Gupta",
+    "dateOfBirth": "Nov 15, 1996",
+    "address": "rfg"
+  },
+  {
+    "id": 5,
+    "name": "Hardik Agrawal",
+    "dateOfBirth": "Nov 16, 1996",
+    "address": "rtg"
+  },
+  {
+    "id": 6,
+    "name": "Hardik Gupta",
+    "dateOfBirth": "Nov 17, 1996",
+    "address": "rtf"
+  }
+]
